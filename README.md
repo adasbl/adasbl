@@ -6,8 +6,3 @@
   </a>
 </p>
 
----
-
-### Stack:
-![](https://img.shields.io/badge/Fusion_360-E95420?style=for-the-badge&logo=autodesk&logoColor=white) ![](https://img.shields.io/badge/KiCad-314E87?style=for-the-badge&logo=kicad&logoColor=white)
-
